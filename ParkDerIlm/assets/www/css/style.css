@@ -1,0 +1,41 @@
+#infoLabel {	
+	width: 250px;
+	text-align: center;		
+}
+
+.centered{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+.row{
+	margin: auto;
+	width: 300px;	
+}
+
+.row a{
+	padding: 5px;	
+	font-color: #306;
+}
+
+.thumbnails{
+	background-color=#D3D3D3;	
+}
+
+.button{
+    float: left;
+    width: 80px;  
+    height: 60px;  
+    		
+}
+
+.centered {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#activePlayer{
+	display: inline;
+	width: 200px;		
+}
