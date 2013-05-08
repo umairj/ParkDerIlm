@@ -1,3 +1,20 @@
+body {
+	background-color:#000;
+}
+
+#mainpage .bigImage img {
+	width:80%;
+	margin: 5% 8%;
+	display:block;
+	border: 2px solid #FFF;	
+}
+
+.google-map {
+	width:90%;
+	margin: 5%;
+	display:block;
+}
+
 #infoLabel {	
 	width: 250px;
 	text-align: center;		
@@ -38,4 +55,22 @@
 #activePlayer{
 	display: inline;
 	width: 200px;		
+}
+
+#newPhotoPreview {
+	display:none;
+	width:80%;
+	margin: 4% 10%;
+	border: 2px solid #FFF;
+}
+
+#usePictureButton {
+	display:none;
+}
+
+#PDIPhotoGalleryContainer img {
+	width:80%;
+	margin: 4% 10%;
+	display:block;
+	border: 2px solid #FFF;
 }
